@@ -1,0 +1,89 @@
+.b1 button{
+   background-color: #ef5839;
+   color: white; 
+   text-align: center;
+   border: none;
+}
+.b2 button{
+    background-color: #fff;
+    color: #2e354f; 
+    text-align: center;
+    border: none;
+    margin-left: 30px;
+
+}
+.b1 button:hover{
+ background-color: #bb452d;
+}
+.b2 button:hover{
+    background-color: rgb(212, 209, 209);
+}
+.b1 button:focus{
+    background-color: #8a3322;
+}
+.b2 button:focus{
+    background-color: #a8a8a8;
+}
+
+a:hover{
+    color:#ac402b;
+
+}
+a:focus{
+    color: purple;
+}
+
+button{
+    width:130px;
+    height:50px;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Lato',sans-serif;
+ font-size: 18px;
+ font-weight:400;
+
+}
+body{
+    display: block;
+    width:620px;
+ font-family: 'Lato',sans-serif;
+ font-size: 18px;
+ font-weight:400;
+}
+h1{
+    color: #fff;
+    font-size: 36px;
+    font-weight:900;
+}
+header{
+    width:100%;
+
+    background-color: #2e354f;
+    margin: auto;
+    padding: 40px;
+
+}
+.sectionOne{
+    background-color: #fff;
+}
+.sectionTwo{
+    background-color: #2e354f;
+    color: #fff;
+}
+section{
+    width:100%;
+
+    padding: 50px;
+}
+.subs{
+    font-weight:900;
+    font-size: 24px;
+    color: #ef5839;
+}
+a{
+    color: #ef5839;
+}
+
+section img{
+    text-align: center;
+}
